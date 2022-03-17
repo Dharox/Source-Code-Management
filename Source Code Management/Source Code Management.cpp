@@ -11,7 +11,8 @@ using namespace std;
 
 int main()
 {
-    cout << "\nHello World!" << endl;
+    // Changed text.
+    cout << "\nHello Universe!" << endl;
 
     return 0;
 }
